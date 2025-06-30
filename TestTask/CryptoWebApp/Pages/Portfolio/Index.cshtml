@@ -1,0 +1,22 @@
+﻿@page
+@model CryptoWebApp.Pages.Portfolio.IndexModel
+
+<h2>Портфель</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Валюта</th>
+            <th>Баланс в валюте</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.PortfolioValues)
+        {
+            <tr>
+                <td>@item.Key</td>
+                <td>@(item.Value.ToString("N8"))</td>
+            </tr>
+        }
+    </tbody>
+</table>

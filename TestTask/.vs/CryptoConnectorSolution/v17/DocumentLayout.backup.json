@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B01E17F-9BE6-4F22-80A0-C94354F46568}|CryptoWebApp\\CryptoWebApp.csproj|d:\\testtask\\cryptowebapp\\pages\\portfolio\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B01E17F-9BE6-4F22-80A0-C94354F46568}|CryptoWebApp\\CryptoWebApp.csproj|solutionrelative:cryptowebapp\\pages\\portfolio\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B01E17F-9BE6-4F22-80A0-C94354F46568}|CryptoWebApp\\CryptoWebApp.csproj|d:\\testtask\\cryptowebapp\\pages\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B01E17F-9BE6-4F22-80A0-C94354F46568}|CryptoWebApp\\CryptoWebApp.csproj|solutionrelative:cryptowebapp\\pages\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B01E17F-9BE6-4F22-80A0-C94354F46568}|CryptoWebApp\\CryptoWebApp.csproj|d:\\testtask\\cryptowebapp\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B01E17F-9BE6-4F22-80A0-C94354F46568}|CryptoWebApp\\CryptoWebApp.csproj|solutionrelative:cryptowebapp\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{180AF438-872E-4863-A410-62D8542B2641}|PortfolioCalculator\\PortfolioCalculator.csproj|d:\\testtask\\portfoliocalculator\\portfolioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{180AF438-872E-4863-A410-62D8542B2641}|PortfolioCalculator\\PortfolioCalculator.csproj|solutionrelative:portfoliocalculator\\portfolioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC68D0A2-3B20-4106-B559-7CF32A25035A}|BitfinexConnector\\BitfinexConnector.csproj|d:\\testtask\\bitfinexconnector\\bitfinexconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC68D0A2-3B20-4106-B559-7CF32A25035A}|BitfinexConnector\\BitfinexConnector.csproj|solutionrelative:bitfinexconnector\\bitfinexconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B01E17F-9BE6-4F22-80A0-C94354F46568}|CryptoWebApp\\CryptoWebApp.csproj|d:\\testtask\\cryptowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B01E17F-9BE6-4F22-80A0-C94354F46568}|CryptoWebApp\\CryptoWebApp.csproj|solutionrelative:cryptowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE27C1C-9F93-4DDB-ADF5-060B5ACCAAF3}|Models\\Models.csproj|d:\\testtask\\models\\candle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE27C1C-9F93-4DDB-ADF5-060B5ACCAAF3}|Models\\Models.csproj|solutionrelative:models\\candle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC68D0A2-3B20-4106-B559-7CF32A25035A}|BitfinexConnector\\BitfinexConnector.csproj|d:\\testtask\\bitfinexconnector\\bitfinexwebsocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC68D0A2-3B20-4106-B559-7CF32A25035A}|BitfinexConnector\\BitfinexConnector.csproj|solutionrelative:bitfinexconnector\\bitfinexwebsocketclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE27C1C-9F93-4DDB-ADF5-060B5ACCAAF3}|Models\\Models.csproj|d:\\testtask\\models\\ticker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE27C1C-9F93-4DDB-ADF5-060B5ACCAAF3}|Models\\Models.csproj|solutionrelative:models\\ticker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEE27C1C-9F93-4DDB-ADF5-060B5ACCAAF3}|Models\\Models.csproj|d:\\testtask\\models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEE27C1C-9F93-4DDB-ADF5-060B5ACCAAF3}|Models\\Models.csproj|solutionrelative:models\\trade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BitfinexConnector.cs",
+              "DocumentMoniker": "D:\\TestTask\\BitfinexConnector\\BitfinexConnector.cs",
+              "RelativeDocumentMoniker": "BitfinexConnector\\BitfinexConnector.cs",
+              "ToolTip": "D:\\TestTask\\BitfinexConnector\\BitfinexConnector.cs",
+              "RelativeToolTip": "BitfinexConnector\\BitfinexConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:08:49.315Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BitfinexWebSocketClient.cs",
+              "DocumentMoniker": "D:\\TestTask\\BitfinexConnector\\BitfinexWebSocketClient.cs",
+              "RelativeDocumentMoniker": "BitfinexConnector\\BitfinexWebSocketClient.cs",
+              "ToolTip": "D:\\TestTask\\BitfinexConnector\\BitfinexWebSocketClient.cs",
+              "RelativeToolTip": "BitfinexConnector\\BitfinexWebSocketClient.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA+wBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:10:09.996Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Candle.cs",
+              "DocumentMoniker": "D:\\TestTask\\Models\\Candle.cs",
+              "RelativeDocumentMoniker": "Models\\Candle.cs",
+              "ToolTip": "D:\\TestTask\\Models\\Candle.cs",
+              "RelativeToolTip": "Models\\Candle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:13:27.091Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\TestTask\\CryptoWebApp\\Pages\\Portfolio\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CryptoWebApp\\Pages\\Portfolio\\Index.cshtml.cs",
+              "ToolTip": "D:\\TestTask\\CryptoWebApp\\Pages\\Portfolio\\Index.cshtml.cs",
+              "RelativeToolTip": "CryptoWebApp\\Pages\\Portfolio\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:48:44.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "D:\\TestTask\\CryptoWebApp\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "CryptoWebApp\\Controllers\\PortfolioController.cs",
+              "ToolTip": "D:\\TestTask\\CryptoWebApp\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "CryptoWebApp\\Controllers\\PortfolioController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:47:02.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PortfolioService.cs",
+              "DocumentMoniker": "D:\\TestTask\\PortfolioCalculator\\PortfolioService.cs",
+              "RelativeDocumentMoniker": "PortfolioCalculator\\PortfolioService.cs",
+              "ToolTip": "D:\\TestTask\\PortfolioCalculator\\PortfolioService.cs",
+              "RelativeToolTip": "PortfolioCalculator\\PortfolioService.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwFQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:25:42.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TestTask\\CryptoWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "CryptoWebApp\\Program.cs",
+              "ToolTip": "D:\\TestTask\\CryptoWebApp\\Program.cs",
+              "RelativeToolTip": "CryptoWebApp\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwAsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:30:00.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TestTask\\CryptoWebApp\\Pages\\Portfolio\\Index.cshtml",
+              "RelativeDocumentMoniker": "CryptoWebApp\\Pages\\Portfolio\\Index.cshtml",
+              "ToolTip": "D:\\TestTask\\CryptoWebApp\\Pages\\Portfolio\\Index.cshtml",
+              "RelativeToolTip": "CryptoWebApp\\Pages\\Portfolio\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-30T10:28:51.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ticker.cs",
+              "DocumentMoniker": "D:\\TestTask\\Models\\Ticker.cs",
+              "RelativeDocumentMoniker": "Models\\Ticker.cs",
+              "ToolTip": "D:\\TestTask\\Models\\Ticker.cs",
+              "RelativeToolTip": "Models\\Ticker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:13:53.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trade.cs",
+              "DocumentMoniker": "D:\\TestTask\\Models\\Trade.cs",
+              "RelativeDocumentMoniker": "Models\\Trade.cs",
+              "ToolTip": "D:\\TestTask\\Models\\Trade.cs",
+              "RelativeToolTip": "Models\\Trade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T10:14:02.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

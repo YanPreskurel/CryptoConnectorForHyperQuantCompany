@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "9Tgbw1FaQtE=",
+  "success": true,
+  "projectFilePath": "D:\\TestTask\\CryptoWebApp\\CryptoWebApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yan\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.0\\microsoft.io.recyclablememorystream.3.0.0.nupkg.sha512",
+    "C:\\Users\\Yan\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Yan\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512",
+    "C:\\Users\\Yan\\.nuget\\packages\\system.threading.channels\\8.0.0\\system.threading.channels.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yan\\.nuget\\packages\\websocket.client\\5.2.0\\websocket.client.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

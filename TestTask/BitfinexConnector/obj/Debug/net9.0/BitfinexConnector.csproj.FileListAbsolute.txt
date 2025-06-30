@@ -1,0 +1,15 @@
+D:\TestTask\BitfinexConnector\bin\Debug\net9.0\BitfinexConnector.deps.json
+D:\TestTask\BitfinexConnector\bin\Debug\net9.0\BitfinexConnector.dll
+D:\TestTask\BitfinexConnector\bin\Debug\net9.0\BitfinexConnector.pdb
+D:\TestTask\BitfinexConnector\bin\Debug\net9.0\Models.dll
+D:\TestTask\BitfinexConnector\bin\Debug\net9.0\Models.pdb
+D:\TestTask\BitfinexConnector\obj\Debug\net9.0\BitfinexConnector.csproj.AssemblyReference.cache
+D:\TestTask\BitfinexConnector\obj\Debug\net9.0\BitfinexConnector.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestTask\BitfinexConnector\obj\Debug\net9.0\BitfinexConnector.AssemblyInfoInputs.cache
+D:\TestTask\BitfinexConnector\obj\Debug\net9.0\BitfinexConnector.AssemblyInfo.cs
+D:\TestTask\BitfinexConnector\obj\Debug\net9.0\BitfinexConnector.csproj.CoreCompileInputs.cache
+D:\TestTask\BitfinexConnector\obj\Debug\net9.0\Bitfinex.7D8D1633.Up2Date
+D:\TestTask\BitfinexConnector\obj\Debug\net9.0\BitfinexConnector.dll
+D:\TestTask\BitfinexConnector\obj\Debug\net9.0\refint\BitfinexConnector.dll
+D:\TestTask\BitfinexConnector\obj\Debug\net9.0\BitfinexConnector.pdb
+D:\TestTask\BitfinexConnector\obj\Debug\net9.0\ref\BitfinexConnector.dll
